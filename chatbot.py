@@ -2,7 +2,7 @@ import os
 import google.generativeai as genai
 
 # Set API key directly (avoid hardcoding in production)
-API_KEY = "AIzaSyBxjk5Na1rACHzwc6wvt4AE06fsd8Vzk-4"
+API_KEY = "USE YOUR GOOGLE STUDIO API KEY"
 genai.configure(api_key=API_KEY)
 
 # Create the model
